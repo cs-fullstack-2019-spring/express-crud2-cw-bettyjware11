@@ -1,6 +1,13 @@
 doctype html
 html
   head
+  nav
+  h4
+  a href="{% url 'index' %} "Home Page
+  a href="{% url 'createPost' %}"Add New Post
+  a href="{% url 'deletePost' %}"Delete Post
+  a href="{% url 'find' %}"Search Posts
+
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
   body

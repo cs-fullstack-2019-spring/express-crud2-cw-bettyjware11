@@ -1,5 +1,5 @@
 {
-  "name": "2019-03-26-cw",
+  "name": "express-crud2-cw-bettyjware11",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -13,6 +13,6 @@
     "mongoose": "^5.4.20",
     "morgan": "~1.9.0",
     "nodemon": "^1.18.10",
-    "pug": "^2.0.3"
+    "pug": "2.0.0-beta11"
   }
 }
